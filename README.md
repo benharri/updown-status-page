@@ -12,7 +12,7 @@ Page is written with Vue.js.
 
 ## Deploy your own public page
 
- * [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/nya1/updown-status-page)
+ * [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/benharri/updown-status-page)
  
    * This will automatically create your own updown-status-page repository and setup netlify build commands
 
